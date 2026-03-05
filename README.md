@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Zamzama Corporation Website
 
 ## Project Structure
@@ -144,3 +145,6 @@ For questions about this website:
 **Last Updated**: March 5, 2026
 **Version**: 1.0.0
 **Status**: Production Ready ✅
+=======
+# website
+>>>>>>> 6b46ba01beea95e14ebcce3d3766114d66f09209
