@@ -1124,3 +1124,15 @@ nav[role="navigation"] {
     display: none !important;
   }
 }
+/* Fix navbar spacing */
+body{
+margin:0;
+padding:0;
+}
+
+nav[role="navigation"]{
+position:sticky;
+top:0;
+z-index:50;
+margin-top:0;
+}
